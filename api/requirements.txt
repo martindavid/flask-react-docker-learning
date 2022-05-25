@@ -10,6 +10,6 @@ flask-migrate==2.5.2
 Flask-RESTful==0.3.7
 Flask-Testing==0.7.1
 marshmallow-sqlalchemy==0.17.0
-pyjwt==1.7.1
+pyjwt==2.4.0
 requests==2.20.1
 SQLAlchemy-Utils==0.34.1
